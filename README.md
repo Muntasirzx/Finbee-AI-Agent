@@ -22,7 +22,7 @@
 
 ---
 <p align="center">
-  <a href="https://your-app-url.vercel.app" target="_blank" rel="noopener noreferrer">
+  <a href="https://finbee-ai-agent.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Launch-Finbee%20AI-black?style=for-the-badge&logo=rocket&logoColor=white" alt="Launch Finbee AI">
   </a>
 </p>
