@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muntasirzx/Finbee-AI-Agent/086c4d46ef8f20e59098b98c3b2ecdee9d52bf0e/DATA/STREIGHT%20out%20of.png" width="240"/>
+  <img src="https://raw.githubusercontent.com/Muntasirzx/Finbee-AI-Agent/e5a3792bb59296f5149fe7e53e8cd1a48da17b75/DATA/STREIGHT%20out%20of.png" width="120"/>
 </p>
 <h1 align="center">Finbee AI</h1>
 
