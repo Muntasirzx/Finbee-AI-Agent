@@ -17,7 +17,8 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/your-image-url-for-3.jpg" alt="Finbee AI Interface" width="850"/>
+  <img src="https://raw.githubusercontent.com/Muntasirzx/Finbee-AI-Agent/61485d4879278031d8a3c84fbd1453c9cbf746a0/DATA/_init_.gif" alt="Finbee AI Interface" width="49%"/>
+  <img src="https://raw.githubusercontent.com/Muntasirzx/Finbee-AI-Agent/61485d4879278031d8a3c84fbd1453c9cbf746a0/DATA/2.png" alt="Finbee AI Interface" width="49%"/>
 </p>
 
 ---
