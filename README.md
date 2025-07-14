@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://i.imgur.com/your-image-url-for-finbee-logo.png" alt="Finbee AI Logo" width="120"/>
+  <img src="https://raw.githubusercontent.com/Muntasirzx/Finbee-AI-Agent/086c4d46ef8f20e59098b98c3b2ecdee9d52bf0e/DATA/STREIGHT%20out%20of.png" width="240"/>
 </p>
-
 <h1 align="center">Finbee AI</h1>
 
 <p align="center">
@@ -22,7 +21,13 @@
 </p>
 
 ---
+<p align="center">
+  <a href="https://your-app-url.vercel.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Launch-Finbee%20AI-black?style=for-the-badge&logo=rocket&logoColor=white" alt="Launch Finbee AI">
+  </a>
+</p>
 
+---
 ## ✨ Features
 
 * **Decisive AI Persona:** Get direct "Buy," "Sell," or "Hold" recommendations, backed by data—no hedging or disclaimers.
@@ -112,7 +117,7 @@ Follow these instructions to set up and run the project on your local machine fo
 
 ---
 
-## 🌐 Deployment
+## 🚩 Deployment
 
 This application is configured for seamless deployment on **Vercel**.
 
@@ -125,11 +130,11 @@ Any subsequent `git push` to the `main` branch will trigger an automatic redeplo
 
 ---
 
-## 🏛️ How It Works: The Agentic Workflow
+## 🔂 How It Works: The Agentic Workflow
 
 <p align="center">
   <!-- Replace with your actual image URL -->
-  <img src="https://i.imgur.com/2.png" alt="Finbee AI Architecture" width="800"/>
+  <img src="https://raw.githubusercontent.com/Muntasirzx/Finbee-AI-Agent/e68df93913412215d208a6d894105f674a141acb/DATA/3.png" width="800"/>
 </p>
 
 Finbee operates on a sophisticated agentic loop powered by Gemini's function-calling capabilities.
