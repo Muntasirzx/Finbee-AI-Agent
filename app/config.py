@@ -9,7 +9,7 @@ class AppConfig:
         # On Vercel, secrets are loaded from environment variables.
         self.GOOGLE_API_KEY = os.environ.get('GOOGLE_API_KEY')
         self.RAPIDAPI_KEY = os.environ.get('RAPIDAPI_KEY')
-        self.MODEL_NAME = "gemini-2.5-pro"
+        self.MODEL_NAME = "gemini-3.1-pro-preview"
         
         if not self.GOOGLE_API_KEY or not self.RAPIDAPI_KEY:
             raise ValueError("API keys (GOOGLE_API_KEY, RAPIDAPI_KEY) are not set as environment variables.")
